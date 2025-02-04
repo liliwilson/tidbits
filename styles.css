@@ -17,6 +17,10 @@ body {
     text-align: right;
 }
 
+.smaller {
+    font-size: 0.95rem;
+}
+
 .image-container {
     display: flex;
     justify-content: center;
